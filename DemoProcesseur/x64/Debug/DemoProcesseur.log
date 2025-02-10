@@ -1,2 +1,4 @@
 ﻿  DemoProcesseur.cpp
+C:\Users\2163453\Documents\C63Final\DemoProcesseur\DemoProcesseur.cpp(17,47): warning C4002: trop d'arguments pour l'appel de macro de type fonction 'FORMULE_CIRCONFERENCE'
+C:\Users\2163453\Documents\C63Final\DemoProcesseur\DemoProcesseur.cpp(13,12): warning C4101: 'p' : variable locale non référencée
   DemoProcesseur.vcxproj -> C:\Users\2163453\Documents\C63Final\x64\Debug\DemoProcesseur.exe
