@@ -1,6 +1,8 @@
 ﻿  Dessin.cpp
-  C:\Users\2163453\Documents\C63Final\\build\raylib\bin\x64\Debug\raylib.idb
-  C:\Users\2163453\Documents\C63Final\\build\raylib\bin\x64\Debug\raylib.lib
-  C:\Users\2163453\Documents\C63Final\\build\raylib\bin\x64\Debug\raylib.pdb
-          3 fichier(s) copié(s).
-  Desssin.vcxproj -> C:\Users\2163453\Documents\C63Final\x64\Debug\Desssin.exe
+  C:\Users\2163453\Desktop\C63Final\\build\raylib\bin\x64\Debug\raylib.idb
+  Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+  C:\Users\2163453\Desktop\C63Final\\build\raylib\bin\x64\Debug\raylib.pdb
+  Le processus ne peut pas accéder au fichier car ce fichier est utilisé par un autre processus.
+          0 fichier(s) copié(s).
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(161,5): error MSB3073: La commande "copy C:\Users\2163453\Desktop\C63Final\\build\raylib\bin\x64\Debug\* C:\Users\2163453\Desktop\C63Final\Desssin\
+C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(161,5): error MSB3073: :VCEnd" s'est arrêtée avec le code 1.

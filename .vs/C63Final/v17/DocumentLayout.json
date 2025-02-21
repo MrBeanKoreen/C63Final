@@ -1,17 +1,24 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\2163453\\Documents\\C63Final\\",
+  "WorkspaceRootPath": "C:\\Users\\2163453\\Desktop\\C63Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDC5CBEF-D6E0-4401-ABAB-91229D61B788}|DemoProcesseur\\DemoProcesseur.vcxproj|C:\\Users\\2163453\\Documents\\C63Final\\DemoProcesseur\\DemoProcesseur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{4EAC1F85-F6CC-47EB-A1A0-0383D77684B6}|semaine4\\semaine4.vcxproj|C:\\Users\\2163453\\Downloads\\main_etu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97323E1C-DA48-4B0E-9817-69604B0F4EA9}|Desssin\\Desssin.vcxproj|C:\\Users\\2163453\\Desktop\\C63Final\\Desssin\\Dessin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{97323E1C-DA48-4B0E-9817-69604B0F4EA9}|Desssin\\Desssin.vcxproj|solutionrelative:Desssin\\Dessin.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDC5CBEF-D6E0-4401-ABAB-91229D61B788}|DemoProcesseur\\DemoProcesseur.vcxproj|C:\\Users\\2163453\\Desktop\\C63Final\\DemoProcesseur\\DemoProcesseur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EDC5CBEF-D6E0-4401-ABAB-91229D61B788}|DemoProcesseur\\DemoProcesseur.vcxproj|solutionrelative:DemoProcesseur\\DemoProcesseur.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDC5CBEF-D6E0-4401-ABAB-91229D61B788}|DemoProcesseur\\DemoProcesseur.vcxproj|C:\\Users\\2163453\\Documents\\C63Final\\DemoProcesseur\\Patate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EDC5CBEF-D6E0-4401-ABAB-91229D61B788}|DemoProcesseur\\DemoProcesseur.vcxproj|C:\\Users\\2163453\\Desktop\\C63Final\\DemoProcesseur\\Patate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EDC5CBEF-D6E0-4401-ABAB-91229D61B788}|DemoProcesseur\\DemoProcesseur.vcxproj|solutionrelative:DemoProcesseur\\Patate.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDC5CBEF-D6E0-4401-ABAB-91229D61B788}|DemoProcesseur\\DemoProcesseur.vcxproj|C:\\Users\\2163453\\Documents\\C63Final\\DemoProcesseur\\NeFaisPasCa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{EDC5CBEF-D6E0-4401-ABAB-91229D61B788}|DemoProcesseur\\DemoProcesseur.vcxproj|C:\\Users\\2163453\\Desktop\\C63Final\\DemoProcesseur\\NeFaisPasCa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{EDC5CBEF-D6E0-4401-ABAB-91229D61B788}|DemoProcesseur\\DemoProcesseur.vcxproj|solutionrelative:DemoProcesseur\\NeFaisPasCa.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,46 +29,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main_etu.cpp",
+              "DocumentMoniker": "C:\\Users\\2163453\\Downloads\\main_etu.cpp",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\main_etu.cpp",
+              "ToolTip": "C:\\Users\\2163453\\Downloads\\main_etu.cpp",
+              "RelativeToolTip": "..\\..\\Downloads\\main_etu.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwDQAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T17:17:25.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Dessin.cpp",
+              "DocumentMoniker": "C:\\Users\\2163453\\Desktop\\C63Final\\Desssin\\Dessin.cpp",
+              "RelativeDocumentMoniker": "Desssin\\Dessin.cpp",
+              "ToolTip": "C:\\Users\\2163453\\Desktop\\C63Final\\Desssin\\Dessin.cpp",
+              "RelativeToolTip": "Desssin\\Dessin.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T17:03:49.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Patate.h",
-              "DocumentMoniker": "C:\\Users\\2163453\\Documents\\C63Final\\DemoProcesseur\\Patate.h",
+              "DocumentMoniker": "C:\\Users\\2163453\\Desktop\\C63Final\\DemoProcesseur\\Patate.h",
               "RelativeDocumentMoniker": "DemoProcesseur\\Patate.h",
-              "ToolTip": "C:\\Users\\2163453\\Documents\\C63Final\\DemoProcesseur\\Patate.h",
+              "ToolTip": "C:\\Users\\2163453\\Desktop\\C63Final\\DemoProcesseur\\Patate.h",
               "RelativeToolTip": "DemoProcesseur\\Patate.h",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-10T19:12:49.917Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T19:12:49.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NeFaisPasCa.h",
+              "DocumentMoniker": "C:\\Users\\2163453\\Desktop\\C63Final\\DemoProcesseur\\NeFaisPasCa.h",
+              "RelativeDocumentMoniker": "DemoProcesseur\\NeFaisPasCa.h",
+              "ToolTip": "C:\\Users\\2163453\\Desktop\\C63Final\\DemoProcesseur\\NeFaisPasCa.h",
+              "RelativeToolTip": "DemoProcesseur\\NeFaisPasCa.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-10T19:12:10.038Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "NeFaisPasCa.h",
-              "DocumentMoniker": "C:\\Users\\2163453\\Documents\\C63Final\\DemoProcesseur\\NeFaisPasCa.h",
-              "RelativeDocumentMoniker": "DemoProcesseur\\NeFaisPasCa.h",
-              "ToolTip": "C:\\Users\\2163453\\Documents\\C63Final\\DemoProcesseur\\NeFaisPasCa.h",
-              "RelativeToolTip": "DemoProcesseur\\NeFaisPasCa.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-10T19:12:10.038Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "DemoProcesseur.cpp",
-              "DocumentMoniker": "C:\\Users\\2163453\\Documents\\C63Final\\DemoProcesseur\\DemoProcesseur.cpp",
+              "DocumentMoniker": "C:\\Users\\2163453\\Desktop\\C63Final\\DemoProcesseur\\DemoProcesseur.cpp",
               "RelativeDocumentMoniker": "DemoProcesseur\\DemoProcesseur.cpp",
-              "ToolTip": "C:\\Users\\2163453\\Documents\\C63Final\\DemoProcesseur\\DemoProcesseur.cpp",
+              "ToolTip": "C:\\Users\\2163453\\Desktop\\C63Final\\DemoProcesseur\\DemoProcesseur.cpp",
               "RelativeToolTip": "DemoProcesseur\\DemoProcesseur.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-10T19:10:34.612Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-10T19:10:34.612Z"
             }
           ]
         }
