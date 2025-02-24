@@ -2,7 +2,4 @@
   C:\Users\2163453\Desktop\C63Final\build\raylib\bin\x64\Debug\raylib.lib
   C:\Users\2163453\Desktop\C63Final\build\raylib\bin\x64\Debug\raylib.pdb
           3 fichier(s) copié(s).
-  main_etu.cpp
-C:\Users\2163453\Downloads\SimpleSquare.hpp(42,30): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
-C:\Users\2163453\Downloads\SimpleSquare.hpp(42,24): warning C4244: 'argument' : conversion de 'float' en 'int', perte possible de données
   semaine4.vcxproj -> C:\Users\2163453\Desktop\C63Final\x64\Debug\semaine4.exe

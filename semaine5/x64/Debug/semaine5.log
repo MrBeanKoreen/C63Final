@@ -1,0 +1,5 @@
+﻿  C:\Users\2163453\Desktop\C63Final\build\raylib\bin\x64\Debug\raylib.idb
+  C:\Users\2163453\Desktop\C63Final\build\raylib\bin\x64\Debug\raylib.pdb
+          2 fichier(s) copié(s).
+  semaine5.cpp
+LINK : fatal error LNK1104: impossible d'ouvrir le fichier 'raylib.lib'
